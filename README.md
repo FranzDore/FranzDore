@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FranzDore
+- 👀 I’m interested in gaming and web developing
+- 🌱 I’m currently learning html and css!
