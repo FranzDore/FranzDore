@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @FranzDore
 - 👀 I’m interested in gaming and web developing
 - 📚 Studied JavaScript, Java, C and Python in University (Pisa, Italy) 
-- 🌱 I’m currently learning html and css!
+- 🌱 I’m currently learning HTML and CSS!
