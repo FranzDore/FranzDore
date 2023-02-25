@@ -4,3 +4,5 @@
 - 🌱 I’m currently learning HTML and CSS!
 - 📬 How to reach me: francescodore27@gmail.com
 - 🔗 Let's connect! https://www.linkedin.com/in/francesco-dore-1520b5267/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/FranzDore)
